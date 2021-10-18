@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Accessories>
+	<Accessory id="1" name="Heater" price="50" />
+	<Accessory id="2" name="Filter" price="50" />
+	<Accessory id="3" name="Light" price="50" />
+</Accessories>

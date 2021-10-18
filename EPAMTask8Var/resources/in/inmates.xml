@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inmates>
+	<Fishes>
+		<Fish id="1" type="Non predatory fish" name="Guppy" price="5" count="10" />
+		<Fish id="1" type="Non predatory fish" name="Danio" price="8" count="6" />
+		<Fish id="1" type="Predatory fish" name="Cichlid" price="10" count="5" />
+	</Fishes>
+	<Reptiles>
+		<Reptily id="2" type="Turtle" name="Pond slider" price="50" count="1" />
+	</Reptiles>
+	<Snail id="3" type="Snail" name="Ampularia" price="2.5" count="5" />
+	<Shrimp id="4" type="Shrimp" name="Red nosed" price="25" count="2" />
+</Inmates>

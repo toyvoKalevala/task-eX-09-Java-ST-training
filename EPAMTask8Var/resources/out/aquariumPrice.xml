@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Aquarium aquariumPrice="410.5">
+    <inmate id="1">
+        <type>Non predatory fish</type>
+        <name>Guppy</name>
+        <price>5.0</price>
+        <count>10</count>
+    </inmate>
+    <inmate id="1">
+        <type>Non predatory fish</type>
+        <name>Danio</name>
+        <price>8.0</price>
+        <count>6</count>
+    </inmate>
+    <inmate id="3">
+        <type>Snail</type>
+        <name>Ampularia</name>
+        <price>2.5</price>
+        <count>5</count>
+    </inmate>
+    <inmate id="4">
+        <type>Shrimp</type>
+        <name>Red nosed</name>
+        <price>25.0</price>
+        <count>2</count>
+    </inmate>
+    <accessory id="1">
+        <name>Heater</name>
+        <price>50.0</price>
+    </accessory>
+    <accessory id="2">
+        <name>Filter</name>
+        <price>50.0</price>
+    </accessory>
+    <accessory id="3">
+        <name>Light</name>
+        <price>50.0</price>
+    </accessory>
+</Aquarium>
